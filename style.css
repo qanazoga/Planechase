@@ -1,0 +1,10 @@
+html, body 
+.btn-large{
+    padding: 18px 28px;
+    font-size: 72px; 
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+}
+
